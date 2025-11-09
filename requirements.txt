@@ -1,0 +1,4 @@
+requests 
+beautifulsoup4 
+pandas
+lxml // required for parsing HTML tables with BeautifulSoup
